@@ -327,14 +327,9 @@ export default function Internationalparticipants() {
                     required
                   >
                     <option value="">--Choose Your Grade--</option>
-                    <option value="Elementery">Elementery</option>
-                    <option value="Junior High School">
-                      Junior High School
-                    </option>
                     <option value="Senior High School">
                       Senior High School
                     </option>
-                    <option value="University">University</option>
                   </select>
                 </div>
                 <div class="input-box">
